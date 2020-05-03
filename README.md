@@ -8,6 +8,10 @@ In this work a neural-network based interaction detector is proposed. On the bas
 
 Dataset will not available cause data protection and online privacy.
 
+# Document
+
+Information about the model developed are available to the following <a href="https://www.ditecco.it/papers/human-object-interaction-recognition-using-an-artificial-neural-network.pdf">link</a>.
+
 # Contributors
 
 [Antonio Di Tecco](https://github.com/djqwert)
