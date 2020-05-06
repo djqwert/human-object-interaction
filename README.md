@@ -10,7 +10,7 @@ Dataset will not available cause data protection and online privacy.
 
 # Document
 
-Information about the model developed are available to the following <a href="https://www.ditecco.it/papers/human-object-interaction-recognition-using-an-artificial-neural-network.pdf">link</a>.
+Information about the model developed are available to the following <a href="https://www.ditecco.it/papers/human_object_interaction_recognition_using_artificial_neural_networks.pdf">link</a>.
 
 # Contributors
 
